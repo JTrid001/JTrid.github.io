@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -43,8 +42,9 @@
     <img src="profile.jpg" alt="Profile Picture">
     <p>
       <strong>Bio:</strong>  
-      Hello! My name is John Doe. I’m passionate about data analytics, machine learning, and animal care.
+      Hello! My name is John Tridico. I’m passionate about data analytics, machine learning, and animal care.
       I enjoy working on projects that combine science and technology to solve real-world problems.
+      I was born in Virginia but raised internationally in Belguim and the UK. I obtained by B.S. in Physics at Purdue University.
     </p>
     <p>
       📄 <a href="resume.pdf" target="_blank">Download my resume (PDF)</a>
