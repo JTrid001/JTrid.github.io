@@ -39,7 +39,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>John Doe</h1>
+    <h1>John Tridico</h1>
     <img src="profile.jpg" alt="Profile Picture">
     <p>
       <strong>Bio:</strong>  
