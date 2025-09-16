@@ -39,7 +39,7 @@
 <body>
   <div class="container">
     <h1>John Tridico</h1>
-    <img src="profile.jpg" alt="Profile Picture">
+    <img src="profile.jpg">
     <p>
       <strong>Bio:</strong>  
       Hello! My name is John Tridico. I’m passionate about data analytics, machine learning, and animal care.
@@ -47,7 +47,7 @@
       I was born in Virginia but raised internationally in Belguim and the UK. I obtained by B.S. in Physics at Purdue University.
     </p>
     <p>
-      📄 <a href="resume.pdf" target="_blank">Download my resume (PDF)</a>
+      📄 <a href="resume.pdf" target="_blank">Resume</a>
     </p>
   </div>
 </body>
